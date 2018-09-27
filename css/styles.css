@@ -73,13 +73,11 @@ input, textarea {
   }
 }
 
-/*  .contact-form .email,
-  .contact-form .message,
-  .contact-form .name {
-    position: relative
-  }
+.contact-form .email, .contact-form .message, .contact-form .name {
+  position: relative
+}
 
-  .contact-form .email input:focus,
+/*  .contact-form .email input:focus,
   .contact-form .email textarea:focus,
   .contact-form .message input:focus,
   .contact-form .message textarea:focus,
