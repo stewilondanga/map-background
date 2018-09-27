@@ -81,14 +81,13 @@ input, textarea {
   background: #f4f5f6
 }
 
-/*  @media (max-width:500px) {
-    .contact-form .email,
-    .contact-form .name {
-      width: 100%
-    }
+@media (max-width:500px) {
+  .contact-form .email, .contact-form .name {
+    width: 100%
   }
+}
 
-  .contact-form .email input,
+/*  .contact-form .email input,
   .contact-form .name input {
     padding: 23px 0 8px 23px
   }
