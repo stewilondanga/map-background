@@ -137,13 +137,13 @@ input, textarea {
   border-radius: 5px
 }
 
-/*  @media (max-width:500px) {
-    .contact-form .submit .button {
-      float: none
-    }
+@media (max-width:500px) {
+  .contact-form .submit .button {
+    float: none
   }
+}
 
-  .contact-form .submit .button:hover {
+/*  .contact-form .submit .button:hover {
     background: #4aa3df
   }
 
