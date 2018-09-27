@@ -87,12 +87,11 @@ input, textarea {
   }
 }
 
-/*  .contact-form .email input,
-  .contact-form .name input {
-    padding: 23px 0 8px 23px
-  }
+.contact-form .email input, .contact-form .name input {
+  padding: 23px 0 8px 23px
+}
 
-  .contact-form .email {
+/*  .contact-form .email {
     border-left: 1px #e6e6e6 solid;
     float: right
   }
