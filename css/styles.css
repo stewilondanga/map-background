@@ -163,14 +163,14 @@ input, textarea {
   padding-top: 22px
 }
 
-/*  @media (max-width:500px) {
-    .contact-form .submit .user-message {
-      float: none;
-      padding: 0 0 10px
-    }
+@media (max-width:500px) {
+  .contact-form .submit .user-message {
+    float: none;
+    padding: 0 0 10px
   }
+}
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
