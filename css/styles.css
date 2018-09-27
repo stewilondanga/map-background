@@ -66,14 +66,14 @@ input, textarea {
   box-shadow: rgba(26, 26, 26, .1) 0 1px 3px 0
 }
 
-/*  @media (max-width:500px) {
-    .contact-form {
-      margin: 0 0 100px;
-      width: 100%
-    }
+@media (max-width:500px) {
+  .contact-form {
+    margin: 0 0 100px;
+    width: 100%
   }
+}
 
-  .contact-form .email,
+/*  .contact-form .email,
   .contact-form .message,
   .contact-form .name {
     position: relative
