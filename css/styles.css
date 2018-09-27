@@ -114,11 +114,11 @@ input, textarea {
   padding: 20px
 }
 
-/*  .contact-form .name {
-    float: left
-  }
+.contact-form .name {
+  float: left
+}
 
-  .contact-form .submit {
+/*  .contact-form .submit {
     background: #f4f5f6;
     display: block;
     overflow: hidden;
