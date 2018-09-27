@@ -103,13 +103,13 @@ input, textarea {
   }
 }
 
-/*  .contact-form .message {
-    border-bottom: 1px #e6e6e6 solid;
-    border-top: 1px #e6e6e6 solid;
-    clear: both
-  }
+.contact-form .message {
+  border-bottom: 1px #e6e6e6 solid;
+  border-top: 1px #e6e6e6 solid;
+  clear: both
+}
 
-  .contact-form .message textarea {
+/*  .contact-form .message textarea {
     height: 100px;
     padding: 20px
   }
