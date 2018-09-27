@@ -147,11 +147,11 @@ input, textarea {
   background: #4aa3df
 }
 
-/*  .contact-form .submit .button:active {
-    background: #258cd1
-  }
+.contact-form .submit .button:active {
+  background: #258cd1
+}
 
-  .contact-form .submit .button:focus {
+/*  .contact-form .submit .button:focus {
     border-color: #b6daf2;
     -moz-box-shadow: #75b9e7 0 0 4px 1px, #75b9e7 0 0 4px 1px inset;
     -webkit-box-shadow: #75b9e7 0 0 4px 1px, #75b9e7 0 0 4px 1px inset;
