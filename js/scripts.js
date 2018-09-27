@@ -7,9 +7,9 @@ var navigate = (function() {
   });
 })();
 
-/*var position = [-1.28333, 36.81667];
+var position = [-1.28333, 36.81667];
 
- function initialize() {
+/* function initialize() {
 	 var myOptions = {
 		 zoom: 10,
 		 streetViewControl: true,
