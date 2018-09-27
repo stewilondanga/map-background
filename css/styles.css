@@ -96,14 +96,14 @@ input, textarea {
   float: right
 }
 
-/*  @media (max-width:500px) {
-    .contact-form .email {
-      border-left: none;
-      border-top: 1px #e6e6e6 solid
-    }
+@media (max-width:500px) {
+  .contact-form .email {
+    border-left: none;
+    border-top: 1px #e6e6e6 solid
   }
+}
 
-  .contact-form .message {
+/*  .contact-form .message {
     border-bottom: 1px #e6e6e6 solid;
     border-top: 1px #e6e6e6 solid;
     clear: both
