@@ -8,6 +8,16 @@ a#msg {
   border-bottom: 2px dotted #d3d3d3
 }
 
+#googlemaps {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  opacity: .75
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -32,15 +42,6 @@ a#msg {
 }
 
 
-  #googlemaps {
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 0;
-    opacity: .75
-  }
 
   #info {
     position: relative;
