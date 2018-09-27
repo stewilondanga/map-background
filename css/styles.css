@@ -77,16 +77,11 @@ input, textarea {
   position: relative
 }
 
-/*  .contact-form .email input:focus,
-  .contact-form .email textarea:focus,
-  .contact-form .message input:focus,
-  .contact-form .message textarea:focus,
-  .contact-form .name input:focus,
-  .contact-form .name textarea:focus {
-    background: #f4f5f6
-  }
+.contact-form .email input:focus, .contact-form .email textarea:focus, .contact-form .message input:focus, .contact-form .message textarea:focus, .contact-form .name input:focus, .contact-form .name textarea:focus {
+  background: #f4f5f6
+}
 
-  @media (max-width:500px) {
+/*  @media (max-width:500px) {
     .contact-form .email,
     .contact-form .name {
       width: 100%
