@@ -151,14 +151,14 @@ input, textarea {
   background: #258cd1
 }
 
-/*  .contact-form .submit .button:focus {
-    border-color: #b6daf2;
-    -moz-box-shadow: #75b9e7 0 0 4px 1px, #75b9e7 0 0 4px 1px inset;
-    -webkit-box-shadow: #75b9e7 0 0 4px 1px, #75b9e7 0 0 4px 1px inset;
-    box-shadow: #75b9e7 0 0 4px 1px, #75b9e7 0 0 4px 1px inset
-  }
+.contact-form .submit .button:focus {
+  border-color: #b6daf2;
+  -moz-box-shadow: #75b9e7 0 0 4px 1px, #75b9e7 0 0 4px 1px inset;
+  -webkit-box-shadow: #75b9e7 0 0 4px 1px, #75b9e7 0 0 4px 1px inset;
+  box-shadow: #75b9e7 0 0 4px 1px, #75b9e7 0 0 4px 1px inset
+}
 
-  .contact-form .submit .user-message {
+/*  .contact-form .submit .user-message {
     float: left;
     padding-top: 22px
   }
