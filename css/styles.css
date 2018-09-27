@@ -18,14 +18,14 @@ a#msg {
   opacity: .75
 }
 
-/*body {
-  text-align: center;
-  font-family: courier;
-  background-image: url("../assets/image.jpeg");
-  background-repeat: no-repeat;
-  background-size: 100%;
+#info {
+  position: relative;
+  z-index: 1;
+  width: 300px;
+  margin: 50px auto 0
 }
 
+/*
 .my_social {
   position: absolute;
   top: 325px;
@@ -43,12 +43,6 @@ a#msg {
 
 
 
-  #info {
-    position: relative;
-    z-index: 1;
-    width: 300px;
-    margin: 50px auto 0
-  }
 
   input,
   textarea {
