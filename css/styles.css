@@ -29,6 +29,7 @@ a#msg {
   position: absolute;
   top: 325px;
   left: 25px;
+  z-index: 5;
 }
 
 .my_social a {
