@@ -91,12 +91,12 @@ input, textarea {
   padding: 23px 0 8px 23px
 }
 
-/*  .contact-form .email {
-    border-left: 1px #e6e6e6 solid;
-    float: right
-  }
+.contact-form .email {
+  border-left: 1px #e6e6e6 solid;
+  float: right
+}
 
-  @media (max-width:500px) {
+/*  @media (max-width:500px) {
     .contact-form .email {
       border-left: none;
       border-top: 1px #e6e6e6 solid
