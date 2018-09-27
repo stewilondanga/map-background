@@ -1,3 +1,13 @@
+a#msg {
+  font-size: 11px;
+  font-family: arial;
+  text-decoration: none;
+  color: #000;
+  display: inline-block;
+  padding: 5px 0;
+  border-bottom: 2px dotted #d3d3d3
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,15 +31,6 @@
   height: 1.5em;
 }
 
-a#msg {
-    font-size: 11px;
-    font-family: arial;
-    text-decoration: none;
-    color: #000;
-    display: inline-block;
-    padding: 5px 0;
-    border-bottom: 2px dotted #d3d3d3
-  }
 
   #googlemaps {
     height: 100%;
