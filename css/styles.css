@@ -25,14 +25,13 @@ a#msg {
   margin: 50px auto 0
 }
 
-/*
 .my_social {
   position: absolute;
   top: 325px;
   left: 25px;
 }
 
-.my_social a {
+/*.my_social a {
   display: inline-block;
   height: 2.5em;
 }
