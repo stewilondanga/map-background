@@ -143,11 +143,11 @@ input, textarea {
   }
 }
 
-/*  .contact-form .submit .button:hover {
-    background: #4aa3df
-  }
+.contact-form .submit .button:hover {
+  background: #4aa3df
+}
 
-  .contact-form .submit .button:active {
+/*  .contact-form .submit .button:active {
     background: #258cd1
   }
 
