@@ -109,12 +109,12 @@ input, textarea {
   clear: both
 }
 
-/*  .contact-form .message textarea {
-    height: 100px;
-    padding: 20px
-  }
+.contact-form .message textarea {
+  height: 100px;
+  padding: 20px
+}
 
-  .contact-form .name {
+/*  .contact-form .name {
     float: left
   }
 
