@@ -40,20 +40,19 @@ a#msg {
   height: 1.5em;
 }
 
-/*  input,
-  textarea {
-    border: none;
-    outline: none;
-    resize: none;
-    width: 100%;
-    -moz-appearance: none;
-    -webkit-appearance: none;
-    font-size: 13px;
-    margin: 0;
-    padding: 0
-  }
+input, textarea {
+  border: none;
+  outline: none;
+  resize: none;
+  width: 100%;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  font-size: 13px;
+  margin: 0;
+  padding: 0
+}
 
-  .contact-form {
+/*  .contact-form {
     background: #fff;
     height: auto;
     max-width: 500px;
