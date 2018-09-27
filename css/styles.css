@@ -52,21 +52,21 @@ input, textarea {
   padding: 0
 }
 
-/*  .contact-form {
-    background: #fff;
-    height: auto;
-    max-width: 500px;
-    overflow: hidden;
-    width: 327px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    border-radius: 5px;
-    -moz-box-shadow: rgba(26, 26, 26, .1) 0 1px 3px 0;
-    -webkit-box-shadow: rgba(26, 26, 26, .1) 0 1px 3px 0;
-    box-shadow: rgba(26, 26, 26, .1) 0 1px 3px 0
-  }
+.contact-form {
+  background: #fff;
+  height: auto;
+  max-width: 500px;
+  overflow: hidden;
+  width: 327px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: rgba(26, 26, 26, .1) 0 1px 3px 0;
+  -webkit-box-shadow: rgba(26, 26, 26, .1) 0 1px 3px 0;
+  box-shadow: rgba(26, 26, 26, .1) 0 1px 3px 0
+}
 
-  @media (max-width:500px) {
+/*  @media (max-width:500px) {
     .contact-form {
       margin: 0 0 100px;
       width: 100%
